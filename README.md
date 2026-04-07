@@ -29,12 +29,17 @@ Case (STL file and SCAD are included here)
 Case design is a remix with no holes for connectors and extra space around the edges for JST headers. I drilled holes through the front for the CYD mounting holes, and a large hole through the back for wires to pass through. I should have also included one hole for the USB C jack in case I want to reflash the thing without needing to remove it. I've included the STL and also the hacked SCAD file, mod it to your preference.
 
 A few other things make installation and maintenance easier, like:
+
 Connector pigtails for the sensors - Tip - Reverse the M/F pigtail connectors for the temp and flow sensor connections to avoid confusion when climbing under your bench to connect them. That is, put the M on the controller side and the F on the sensor side for one, and the F on the controller side and the M on the sensor side for the other.
 https://www.amazon.com/dp/B071H5XCN5
+
 3-Conductor Wire - I added about four feet of three conductor wire between the sensors and the connector pigtails, with tidy splices and heat shrink tubing and for the temp sensor, its pullup resistor in one of the junctions (see Temperature Probe note above).
 https://www.amazon.com/dp/B08JTZKN4M
+
 Heat Shrink Tubing
+
 Double Sided Tape
+
 Hookup Wire
 
 
