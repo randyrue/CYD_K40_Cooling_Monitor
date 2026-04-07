@@ -26,6 +26,7 @@ https://www.amazon.com/dp/B0G146WVC1
 Small Speaker
 
 Case (STL file and SCAD are included here)
+https://www.thingiverse.com/thing:7330724
 Case design is a remix with no holes for connectors and extra space around the edges for JST headers. I drilled holes through the front for the CYD mounting holes, and a large hole through the back for wires to pass through. I should have also included one hole for the USB C jack in case I want to reflash the thing without needing to remove it. I've included the STL and also the hacked SCAD file, mod it to your preference.
 
 A few other things make installation and maintenance easier, like:
